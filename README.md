@@ -1,16 +1,16 @@
-# Data Science
-Data Science Tutorial and Projects
-# Pandas
-# Numpy
-# Seaborn
-# NLTK
+# Data Science - NLP - DL
 
-# Tweepy
+## Data Science NLP and DL Tutorial
 
-## Data Science Tutorial
+# Tech Frameworks
+# - Pandas
+# - Numpy
+# - Seaborn
+# - NLTK
+# - Tweepy
+# - TensorFlow 2.0
+# - Pytorch
+# - Gensim
+# - Word2Wec
 
-### Tweepy for Data Science
 
-- Data Science Tutorial with Tweepy
-- Text Minning and Worldcloud
-- Tweet Snatiment Analysis
